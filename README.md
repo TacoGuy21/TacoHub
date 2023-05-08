@@ -1,4 +1,4 @@
-If any of the buttons don't work on a certain site, drag them to your bookmarks bar.
+If any of the buttons don't work on a site, drag them to your bookmarks bar.
 
 <br>
 
